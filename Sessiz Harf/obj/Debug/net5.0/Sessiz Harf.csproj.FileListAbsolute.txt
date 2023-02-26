@@ -1,0 +1,16 @@
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.exe
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.deps.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.runtimeconfig.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.runtimeconfig.dev.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.pdb
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.csproj.AssemblyReference.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.AssemblyInfoInputs.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.AssemblyInfo.cs
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.csproj.CoreCompileInputs.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\refint\Sessiz Harf.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.pdb
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.genruntimeconfig.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net5.0\ref\Sessiz Harf.dll
